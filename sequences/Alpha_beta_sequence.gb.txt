@@ -1,0 +1,2704 @@
+
+LOCUS       AE007512             1666365 bp    DNA     linear   ROD 01-MAR-2012
+DEFINITION  Mus musculus T-cell receptor alpha/delta locus, complete sequence.
+ACCESSION   AE007512 AE008683 AE008684 AE008685 AE008686
+VERSION     AE007512.1  GI:15990566
+KEYWORDS    .
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1666365)
+  AUTHORS   Lee,I.Y., Roach,J.C., Smit,A.F., Wang,K. and Hood,L.E.
+  TITLE     Large-scale Sequence Analysis of the Mouse T-cell Receptor
+            Alpha/Delta Locus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1666365)
+  AUTHORS   Lee,I.Y., Roach,J.C. and Hood,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2001) Institute for Systems Biology, 4225
+            Roosevelt Way NE, Seattle, WA 98105, USA
+COMMENT     On or before Mar 1, 2012 this sequence version replaced
+            gi:15795232, gi:15795243, gi:15795280, gi:15795314.
+FEATURES             Location/Qualifiers
+     source          1..1666365
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:10090"
+                     /chromosome="14"
+                     /map="14D1-D2"
+                     /germline
+     source          1..170356
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="331N4; MBAC1058"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AF259072"
+     source          164682..237512
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="298L19; MBAC519"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AF259074"
+     source          232259..363990
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="24H10; MBAC01"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AF259071"
+     source          356776..388413
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="98G23; MBAC15"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AF259073"
+     source          376583..417220
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="473N1; MBAC53"
+                     /sub_clone="ma53a068"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005403"
+     source          417172..418804
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="473N1; MBAC53"
+                     /sub_clone="ma53gap"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005963"
+     source          418568..462143
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="473N1; MBAC53"
+                     /sub_clone="ma53a217"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC003994"
+     source          458630..498120
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="473N1; MBAC53"
+                     /sub_clone="ma53a016"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004101"
+     source          497576..629665
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="350G16; MBAC37"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005402"
+     source          628846..634052
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="52I5; MBAC10"
+                     /sub_clone="mbac10gap"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC006119"
+     source          633528..720925
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="113D16; MBAC92"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005855"
+     source          709262..829126
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="44C9; MBAC6"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004407"
+     source          826557..869734
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="342D22; MBAC36"
+                     /sub_clone="ma36a240"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004405"
+     source          868272..910101
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="342D22; MBAC36"
+                     /sub_clone="magap; ma36a178181"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005240"
+     source          908226..955761
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="407F8; MBAC40"
+                     /sub_clone="ma40a113"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004406"
+     source          955610..959629
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="407F8; MBAC40"
+                     /sub_clone="ma40pcr"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005241"
+     source          959179..1081354
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="170C12; MBAC20"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC003997"
+     source          1080616..1086215
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="553K23; MBAC66"
+                     /sub_clone="ma66a123"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004102"
+     source          1085976..1122229
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="553K23; MBAC66"
+                     /sub_clone="ma66a094"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC003995"
+     source          1118601..1158744
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="553K23; MBAC66"
+                     /sub_clone="ma66a100"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004096"
+     source          1154852..1198659
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="553K23; MBAC66"
+                     /sub_clone="ma66a097"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC003996"
+     source          1180813..1342683
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="200P8; MBAC24"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005938"
+     source          1334503..1373090
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="29L11; MBAC3"
+                     /sub_clone="ma03m061"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004399"
+     source          1367515..1499812
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="516L4; MBAC82"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC005835"
+     source          1371174..1409450
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="29L11; MBAC3"
+                     /sub_clone="ma03m136"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC003993"
+     source          1493347..1526954
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="48G17; MBAC8"
+                     /sub_clone="ma08M030"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC003057"
+     source          1526873..1571723
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="129/SvJ"
+                     /db_xref="taxon:10090"
+                     /clone="48G17; MBAC8"
+                     /sub_clone="ma08M078"
+                     /clone_lib="Research Genetics mouse BAC library"
+                     /note="GenBank Accession AC004404"
+     source          1571719..1666365
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="BALB/c"
+                     /db_xref="taxon:10090"
+                     /clone_lib="Hood Lab's cosmid library"
+                     /note="GenBank Accession M64239"
+     misc_feature    1..1666365
+                     /note="T-cell receptor alpha/delta gene locus"
+     gene            complement(15344..16287)
+                     /gene="Psma3-like gene"
+                     /note="'mouse proteasome (prosome, macropain) subunit,
+                     alpha type 3 gene'"
+                     /pseudo
+     gene            complement(18798..19330)
+                     /gene="OR1"
+                     /note="Olfactory receptor gene"
+     gene            complement(31903..33079)
+                     /gene="OR2"
+                     /note="Olfactory receptor gene"
+     gene            complement(54630..55666)
+                     /gene="OR3"
+                     /note="Olfactory receptor gene"
+     gene            72669..73641
+                     /gene="TRAV1"
+                     /note="Other name TCRAV19S1"
+     CDS             join(72669..72717,73320..>73602)
+                     /gene="TRAV1"
+                     /codon_start=1
+                     /product="TRAV1"
+                     /protein_id="AAL08122.1"
+                     /db_xref="GI:15795233"
+     V_segment       join(72669..72717,73320..>73602)
+                     /gene="TRAV1"
+     misc_recomb     73603..73609
+                     /gene="TRAV1"
+                     /note="RSS_heptamer"
+     misc_recomb     73610..73632
+                     /gene="TRAV1"
+                     /note="RSS_spacer"
+     misc_recomb     73633..73641
+                     /gene="TRAV1"
+                     /note="RSS_nonamer"
+     gene            complement(86903..88855)
+                     /gene="ODR4-like gene"
+                     /note="similar to ODR4 gene of C.elegans; processed
+                     pseudogene"
+                     /pseudo
+     gene            104176..105102
+                     /gene="OR4"
+                     /note="Olfactory receptor gene; Other name MOR83"
+     gene            complement(116910..117842)
+                     /gene="OR5"
+                     /note="Olfactory receptor gene; Other name MOR10"
+     gene            complement(146319..147260)
+                     /gene="OR6"
+                     /note="Olfactory receptor gene; Other name MOR28"
+     gene            234623..235587
+                     /gene="TRAV2"
+                     /note="Other name TCRAV12S1"
+     CDS             join(234790..234829,235261..>235548)
+                     /gene="TRAV2"
+                     /codon_start=1
+                     /product="TRAV2"
+                     /protein_id="AAL08123.1"
+                     /db_xref="GI:15795234"
+     V_segment       join(234790..234829,235261..>235548)
+                     /gene="TRAV2"
+     misc_recomb     235549..235555
+                     /gene="TRAV2"
+                     /note="RSS_heptamer"
+     misc_recomb     235556..235578
+                     /gene="TRAV2"
+                     /note="RSS_spacer"
+     misc_recomb     235579..235587
+                     /gene="TRAV2"
+                     /note="RSS_nonamer"
+     gene            246594..247429
+                     /gene="TRAV3-1"
+                     /note="Other name TCRAV5S3"
+     misc_feature    246594..246613
+                     /gene="TRAV3-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(246884..246935,247100..>247390)
+                     /gene="TRAV3-1"
+                     /codon_start=1
+                     /product="TRAV3-1"
+                     /protein_id="AAL08124.1"
+                     /db_xref="GI:15795235"
+     V_segment       join(246884..246935,247100..>247390)
+                     /gene="TRAV3-1"
+     misc_recomb     247391..247397
+                     /gene="TRAV3-1"
+                     /note="RSS_heptamer"
+     misc_recomb     247398..247420
+                     /gene="TRAV3-1"
+                     /note="RSS_spacer"
+     misc_recomb     247421..247429
+                     /gene="TRAV3-1"
+                     /note="RSS_nonamer"
+     gene            266661..267596
+                     /gene="TRAV4-1P"
+                     /note="This gene has internal stop codons in exon2."
+                     /pseudo
+     misc_feature    266661..266676
+                     /gene="TRAV4-1P"
+                     /note="conserved 20-mer"
+                     /pseudo
+     CDS             join(267059..267110,267280..>267557)
+                     /gene="TRAV4-1P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(267059..267110,267280..>267557)
+                     /gene="TRAV4-1P"
+                     /pseudo
+     misc_recomb     267558..267564
+                     /gene="TRAV4-1P"
+                     /note="RSS_heptamer"
+     misc_recomb     267565..267587
+                     /gene="TRAV4-1P"
+                     /note="RSS_spacer"
+     misc_recomb     267588..267596
+                     /gene="TRAV4-1P"
+                     /note="RSS_nonamer"
+     gene            282146..288765
+                     /gene="TRAV5-1"
+     misc_feature    282146..282165
+                     /gene="TRAV5-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(282342..282393,282568..>282858)
+                     /gene="TRAV5-1"
+                     /codon_start=1
+                     /product="TRAV5-1"
+                     /protein_id="AAL08125.1"
+                     /db_xref="GI:15795236"
+     V_segment       join(282342..282393,282568..>282858)
+                     /gene="TRAV5-1"
+     misc_recomb     282859..288765
+                     /gene="TRAV5-1"
+                     /note="RSS_heptamer"
+     misc_recomb     282866..282888
+                     /gene="TRAV5-1"
+                     /note="RSS_spacer"
+     misc_recomb     282889..282897
+                     /gene="TRAV5-1"
+                     /note="RSS_nonamer"
+     gene            298138..298753
+                     /gene="TRAV6-1"
+                     /note="Other name TCRAV4S11"
+     misc_feature    298138..298157
+                     /gene="TRAV6-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(298270..298315,298423..>298714)
+                     /gene="TRAV6-1"
+                     /codon_start=1
+                     /product="TRAV6-1"
+                     /protein_id="AAL08126.1"
+                     /db_xref="GI:15795237"
+     V_segment       join(298270..298315,298423..>298714)
+                     /gene="TRAV6-1"
+     misc_recomb     298715..298721
+                     /gene="TRAV6-1"
+                     /note="RSS_heptamer"
+     misc_recomb     298722..298744
+                     /gene="TRAV6-1"
+                     /note="RSS_spacer"
+     misc_recomb     298745..298753
+                     /gene="TRAV6-1"
+                     /note="RSS_nonamer"
+     gene            313143..313979
+                     /gene="TRAV7-1"
+     misc_feature    313143..313162
+                     /gene="TRAV7-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(313424..313472,313653..>313940)
+                     /gene="TRAV7-1"
+                     /codon_start=1
+                     /product="TRAV7-1"
+                     /protein_id="AAL08127.1"
+                     /db_xref="GI:15795238"
+     V_segment       join(313424..313472,313653..>313940)
+                     /gene="TRAV7-1"
+     misc_recomb     313941..313947
+                     /gene="TRAV7-1"
+                     /note="RSS_heptamer"
+     misc_recomb     313948..313970
+                     /gene="TRAV7-1"
+                     /note="RSS_spacer"
+     misc_recomb     313971..313979
+                     /gene="TRAV7-1"
+                     /note="RSS_nonamer"
+     gene            321314..321931
+                     /gene="TRAV6-2"
+                     /note="Other name TCRAV4S5"
+     misc_feature    321314..321333
+                     /gene="TRAV6-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(321439..321487,321601..>321892)
+                     /gene="TRAV6-2"
+                     /codon_start=1
+                     /product="TRAV6-2"
+                     /protein_id="AAL08128.1"
+                     /db_xref="GI:15795239"
+     V_segment       join(321439..321487,321601..>321892)
+                     /gene="TRAV6-2"
+     misc_recomb     321893..321899
+                     /gene="TRAV6-2"
+                     /note="RSS_heptamer"
+     misc_recomb     321900..321922
+                     /gene="TRAV6-2"
+                     /note="RSS_spacer"
+     misc_recomb     321923..321931
+                     /gene="TRAV6-2"
+                     /note="RSS_nonamer"
+     gene            337785..338515
+                     /gene="TRAV7D-2"
+                     /note="Other name TCRAV1S7"
+     misc_feature    337785..337804
+                     /gene="TRAV7D-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(337968..338016,338189..>338476)
+                     /gene="TRAV7D-2"
+                     /codon_start=1
+                     /product="TRAV7D-2"
+                     /protein_id="AAL08129.1"
+                     /db_xref="GI:15795240"
+     V_segment       join(337968..338016,338189..>338476)
+                     /gene="TRAV7D-2"
+     misc_recomb     338477..338483
+                     /gene="TRAV7D-2"
+                     /note="RSS_heptamer"
+     misc_recomb     338484..338506
+                     /gene="TRAV7D-2"
+                     /note="RSS_spacer"
+     misc_recomb     338507..338515
+                     /gene="TRAV7D-2"
+                     /note="RSS_nonamer"
+     gene            347062..347249
+                     /gene="RPRH3-like gene"
+                     /note="RPRH3 is RNAse P RNA subunite gene"
+                     /pseudo
+     gene            365129..365653
+                     /gene="TRAV4D-2P"
+                     /note="This gene has an internal stop codon in exon2."
+     misc_feature    join(365129..365180,365336..>365614)
+                     /gene="TRAV4D-2P"
+                     /note="nonfunctional due to internal stop codon"
+     V_segment       join(365129..365180,365336..>365614)
+                     /gene="TRAV4D-2P"
+     misc_recomb     365615..365621
+                     /gene="TRAV4D-2P"
+                     /note="RSS_heptamer"
+     misc_recomb     365622..365644
+                     /gene="TRAV4D-2P"
+                     /note="RSS_spacer"
+     misc_recomb     365645..365653
+                     /gene="TRAV4D-2P"
+                     /note="RSS_nonamer"
+     gene            380403..382191
+                     /gene="TRAV6D-3"
+                     /note="Other name TCRAV4S12"
+     misc_feature    380403..380422
+                     /gene="TRAV6D-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(380537..380582,381861..>382152)
+                     /gene="TRAV6D-3"
+                     /codon_start=1
+                     /product="TRAV6D-3"
+                     /protein_id="AAL08130.1"
+                     /db_xref="GI:15795241"
+     V_segment       join(380537..380582,381861..>382152)
+                     /gene="TRAV6D-3"
+     misc_recomb     382153..382159
+                     /gene="TRAV6D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     382160..382182
+                     /gene="TRAV6D-3"
+                     /note="RSS_spacer"
+     misc_recomb     382183..382191
+                     /gene="TRAV6D-3"
+                     /note="RSS_nonamer"
+     gene            399479..400292
+                     /gene="TRAV7D-3"
+                     /note="Other name TCRAV1S3"
+     misc_feature    399479..399498
+                     /gene="TRAV7D-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(399727..399775,399966..>400253)
+                     /gene="TRAV7D-3"
+                     /codon_start=1
+                     /product="TRAV7D-3"
+                     /protein_id="AAL08131.1"
+                     /db_xref="GI:15795242"
+     V_segment       join(399727..399775,399966..>400253)
+                     /gene="TRAV7D-3"
+     misc_recomb     400254..400260
+                     /gene="TRAV7D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     400261..400283
+                     /gene="TRAV7D-3"
+                     /note="RSS_spacer"
+     misc_recomb     400284..400292
+                     /gene="TRAV7D-3"
+                     /note="RSS_nonamer"
+     gene            409294..409911
+                     /gene="TRAV6D-4"
+     misc_feature    409294..409313
+                     /gene="TRAV6D-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(409424..409472,409575..>409872)
+                     /gene="TRAV6D-4"
+                     /codon_start=1
+                     /product="TRAV6D-4"
+                     /protein_id="AAL08132.1"
+                     /db_xref="GI:15795244"
+     V_segment       join(409424..409472,409575..>409872)
+                     /gene="TRAV6D-4"
+     misc_recomb     409873..409879
+                     /gene="TRAV6D-4"
+                     /note="RSS_heptamer"
+     misc_recomb     409880..409902
+                     /gene="TRAV6D-4"
+                     /note="RSS_spacer"
+     misc_recomb     409903..409911
+                     /gene="TRAV6D-4"
+                     /note="RSS_nonamer"
+     gene            418543..419381
+                     /gene="TRAV7D-4"
+                     /note="Other name TCRAV1S8"
+     misc_feature    418543..418562
+                     /gene="TRAV7D-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(418813..418861,419051..>419342)
+                     /gene="TRAV7D-4"
+                     /codon_start=1
+                     /product="TRAV7D-4"
+                     /protein_id="AAL08133.1"
+                     /db_xref="GI:15795245"
+     V_segment       join(418813..418861,419051..>419342)
+                     /gene="TRAV7D-4"
+     misc_recomb     419343..419349
+                     /gene="TRAV7D-4"
+                     /note="RSS_heptamer"
+     misc_recomb     419350..419372
+                     /gene="TRAV7D-4"
+                     /note="RSS_spacer"
+     misc_recomb     419373..419381
+                     /gene="TRAV7D-4"
+                     /note="RSS_nonamer"
+     gene            427198..427975
+                     /gene="TRAV8D-1"
+                     /note="Other name TCRAV18S2"
+     misc_feature    427198..427217
+                     /gene="TRAV8D-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(427451..427502,427652..>427936)
+                     /gene="TRAV8D-1"
+                     /codon_start=1
+                     /product="TRAV8D-1"
+                     /protein_id="AAL08134.1"
+                     /db_xref="GI:15795246"
+     V_segment       join(427451..427502,427652..>427936)
+                     /gene="TRAV8D-1"
+     misc_recomb     427937..427943
+                     /gene="TRAV8D-1"
+                     /note="RSS_heptamer"
+     misc_recomb     427944..427966
+                     /gene="TRAV8D-1"
+                     /note="RSS_spacer"
+     misc_recomb     427967..427975
+                     /gene="TRAV8D-1"
+                     /note="RSS_nonamer"
+     gene            440897..441706
+                     /gene="TRAV9D-1"
+                     /note="Other name TCRAV3S8"
+     misc_feature    440897..440916
+                     /gene="TRAV9D-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(441206..441251,441377..>441667)
+                     /gene="TRAV9D-1"
+                     /codon_start=1
+                     /product="TRAV9D-1"
+                     /protein_id="AAL08135.1"
+                     /db_xref="GI:15795247"
+     V_segment       join(441206..441251,441377..>441667)
+                     /gene="TRAV9D-1"
+     misc_recomb     441668..441674
+                     /gene="TRAV9D-1"
+                     /note="RSS_heptamer"
+     misc_recomb     441675..441697
+                     /gene="TRAV9D-1"
+                     /note="RSS_spacer"
+     misc_recomb     441698..441706
+                     /gene="TRAV9D-1"
+                     /note="RSS_nonamer"
+     gene            444013..444755
+                     /gene="TRAV6D-5"
+                     /note="Other name TCRAV4S2"
+     misc_feature    444013..444032
+                     /gene="TRAV6D-5"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(444246..444291,444425..>444716)
+                     /gene="TRAV6D-5"
+                     /codon_start=1
+                     /product="TRAV6D-5"
+                     /protein_id="AAL08136.1"
+                     /db_xref="GI:15795248"
+     V_segment       join(444246..444291,444425..>444716)
+                     /gene="TRAV6D-5"
+     misc_recomb     444717..444723
+                     /gene="TRAV6D-5"
+                     /note="RSS_heptamer"
+     misc_recomb     444724..444746
+                     /gene="TRAV6D-5"
+                     /note="RSS_spacer"
+     misc_recomb     444747..444755
+                     /gene="TRAV6D-5"
+                     /note="RSS_nonamer"
+     gene            458431..459185
+                     /gene="TRAV10D"
+                     /note="Other name TCRAV15S1"
+     misc_feature    458431..458450
+                     /gene="TRAV10D"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(458650..458701,458856..>459146)
+                     /gene="TRAV10D"
+                     /codon_start=1
+                     /product="TRAV10D"
+                     /protein_id="AAL08137.1"
+                     /db_xref="GI:15795249"
+     V_segment       join(458650..458701,458856..>459146)
+                     /gene="TRAV10D"
+     misc_recomb     459147..459153
+                     /gene="TRAV10D"
+                     /note="RSS_heptamer"
+     misc_recomb     459154..459176
+                     /gene="TRAV10D"
+                     /note="RSS_spacer"
+     misc_recomb     459177..459185
+                     /gene="TRAV10D"
+                     /note="RSS_nonamer"
+     gene            468942..469549
+                     /gene="TRAV6D-6"
+                     /note="Other name TCRAV4S10"
+     misc_feature    468942..468961
+                     /gene="TRAV6D-6"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(469073..469118,469213..>469510)
+                     /gene="TRAV6D-6"
+                     /codon_start=1
+                     /product="TRAV6D-6"
+                     /protein_id="AAL08138.1"
+                     /db_xref="GI:15795250"
+     V_segment       join(469073..469118,469213..>469510)
+                     /gene="TRAV6D-6"
+     misc_recomb     469511..469517
+                     /gene="TRAV6D-6"
+                     /note="RSS_heptamer"
+     misc_recomb     469518..469540
+                     /gene="TRAV6D-6"
+                     /note="RSS_spacer"
+     misc_recomb     469541..469549
+                     /gene="TRAV6D-6"
+                     /note="RSS_nonamer"
+     gene            471252..472063
+                     /gene="TRAV11D"
+                     /note="Other name TCRAV14S2"
+     misc_feature    471252..471271
+                     /gene="TRAV11D"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(471472..471523,471734..>472024)
+                     /gene="TRAV11D"
+                     /codon_start=1
+                     /product="TRAV11D"
+                     /protein_id="AAL08139.1"
+                     /db_xref="GI:15795251"
+     V_segment       join(471472..471523,471734..>472024)
+                     /gene="TRAV11D"
+     misc_recomb     472025..472031
+                     /gene="TRAV11D"
+                     /note="RSS_heptamer"
+     misc_recomb     472032..472054
+                     /gene="TRAV11D"
+                     /note="RSS_spacer"
+     misc_recomb     472055..472063
+                     /gene="TRAV11D"
+                     /note="RSS_nonamer"
+     gene            489226..489978
+                     /gene="TRAV7D-5"
+     misc_feature    489226..489245
+                     /gene="TRAV7D-5"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(489412..489460,489652..>489939)
+                     /gene="TRAV7D-5"
+                     /codon_start=1
+                     /product="TRAV7D-5"
+                     /protein_id="AAL08140.1"
+                     /db_xref="GI:15795252"
+     V_segment       join(489412..489460,489652..>489939)
+                     /gene="TRAV7D-5"
+     misc_recomb     489940..489946
+                     /gene="TRAV7D-5"
+                     /note="RSS_heptamer"
+     misc_recomb     489947..489969
+                     /gene="TRAV7D-5"
+                     /note="RSS_spacer"
+     misc_recomb     489970..489978
+                     /gene="TRAV7D-5"
+                     /note="RSS_nonamer"
+     gene            496701..497396
+                     /gene="TRAV12D-1"
+                     /note="Other name TCRAV8S12"
+     misc_feature    496701..496720
+                     /gene="TRAV12D-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(496885..496930,497063..>497357)
+                     /gene="TRAV12D-1"
+                     /codon_start=1
+                     /product="TRAV12D-1"
+                     /protein_id="AAL08141.1"
+                     /db_xref="GI:15795253"
+     V_segment       join(496885..496930,497063..>497357)
+                     /gene="TRAV12D-1"
+     misc_recomb     497358..497364
+                     /gene="TRAV12D-1"
+                     /note="RSS_heptamer"
+     misc_recomb     497365..497387
+                     /gene="TRAV12D-1"
+                     /note="RSS_spacer"
+     misc_recomb     497388..497396
+                     /gene="TRAV12D-1"
+                     /note="RSS_nonamer"
+     gene            503721..504271
+                     /gene="TRAV13D-1"
+                     /note="Other name TCRAV10S2"
+     CDS             join(503721..503772,503954..>504232)
+                     /gene="TRAV13D-1"
+                     /codon_start=1
+                     /product="TRAV13D-1"
+                     /protein_id="AAL08142.1"
+                     /db_xref="GI:15795254"
+     V_segment       join(503721..503772,503954..>504232)
+                     /gene="TRAV13D-1"
+     misc_recomb     504233..504239
+                     /gene="TRAV13D-1"
+                     /note="RSS_heptamer"
+     misc_recomb     504240..504262
+                     /gene="TRAV13D-1"
+                     /note="RSS_spacer"
+     misc_recomb     504263..504271
+                     /gene="TRAV13D-1"
+                     /note="RSS_nonamer"
+     gene            512584..513286
+                     /gene="TRAV14D-1"
+                     /note="Other name TCRAV2S4"
+     misc_feature    512584..512603
+                     /gene="TRAV14D-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(512746..512797,512936..>513247)
+                     /gene="TRAV14D-1"
+                     /codon_start=1
+                     /product="TRAV14D-1"
+                     /protein_id="AAL08143.1"
+                     /db_xref="GI:15795255"
+     V_segment       join(512746..512797,512936..>513247)
+                     /gene="TRAV14D-1"
+     misc_recomb     513248..513254
+                     /gene="TRAV14D-1"
+                     /note="RSS_heptamer"
+     misc_recomb     513255..513277
+                     /gene="TRAV14D-1"
+                     /note="RSS_spacer"
+     misc_recomb     513278..513286
+                     /gene="TRAV14D-1"
+                     /note="RSS_nonamer"
+     gene            518082..518978
+                     /gene="TRADV15D-1"
+                     /note="Other name TRAV15D/DV6D-2; TCRDV7S6"
+     misc_feature    518082..518101
+                     /gene="TRADV15D-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(518368..518416,518637..>518939)
+                     /gene="TRADV15D-1"
+                     /codon_start=1
+                     /product="TRADV15D-1"
+                     /protein_id="AAL08144.1"
+                     /db_xref="GI:15795256"
+     V_segment       join(518368..518416,518637..>518939)
+                     /gene="TRADV15D-1"
+     misc_recomb     518940..518946
+                     /gene="TRADV15D-1"
+                     /note="RSS_heptamer"
+     misc_recomb     518947..518969
+                     /gene="TRADV15D-1"
+                     /note="RSS_spacer"
+     misc_recomb     518970..518978
+                     /gene="TRADV15D-1"
+                     /note="RSS_nonamer"
+     gene            541140..541847
+                     /gene="TRAV3D-2P"
+                     /note="This gene has internal stop codons in exon 2."
+                     /pseudo
+     misc_feature    541140..541159
+                     /gene="TRAV3D-2P"
+                     /note="conserved 20-mer; possible promoter"
+                     /pseudo
+     CDS             join(541337..541388,541524..>541808)
+                     /gene="TRAV3D-2P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(541337..541388,541524..>541808)
+                     /gene="TRAV3D-2P"
+                     /pseudo
+     misc_recomb     541809..541815
+                     /gene="TRAV3D-2P"
+                     /note="RSS_heptamer"
+     misc_recomb     541816..541838
+                     /gene="TRAV3D-2P"
+                     /note="RSS_spacer"
+     misc_recomb     541839..541847
+                     /gene="TRAV3D-2P"
+                     /note="RSS_nonamer"
+     gene            545613..546386
+                     /gene="TRAV9D-2"
+                     /note="Other name TCRAV3S6"
+     misc_feature    545613..545632
+                     /gene="TRAV9D-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(545913..545958,546054..>546347)
+                     /gene="TRAV9D-2"
+                     /codon_start=1
+                     /product="TRAV9D-2"
+                     /protein_id="AAL08145.1"
+                     /db_xref="GI:15795257"
+     V_segment       join(545913..545958,546054..>546347)
+                     /gene="TRAV9D-2"
+     misc_recomb     546348..546374
+                     /gene="TRAV9D-2"
+                     /note="RSS_heptamer"
+     misc_recomb     546355..546377
+                     /gene="TRAV9D-2"
+                     /note="RSS_spacer"
+     misc_recomb     546378..546386
+                     /gene="TRAV9D-2"
+                     /note="RSS_nonamer"
+     gene            553640..554257
+                     /gene="TRAV4D-3"
+                     /note="Other name TCRAV11S7"
+     misc_feature    553640..553670
+                     /gene="TRAV4D-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(553717..553768,553940..>554218)
+                     /gene="TRAV4D-3"
+                     /codon_start=1
+                     /product="TRAV4D-3"
+                     /protein_id="AAL08146.1"
+                     /db_xref="GI:15795258"
+     V_segment       join(553717..553768,553940..>554218)
+                     /gene="TRAV4D-3"
+     misc_recomb     554219..554225
+                     /gene="TRAV4D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     554226..554248
+                     /gene="TRAV4D-3"
+                     /note="RSS_spacer"
+     misc_recomb     554249..554257
+                     /gene="TRAV4D-3"
+                     /note="RSS_nonamer"
+     gene            567749..568519
+                     /gene="TRAV5D-2P"
+                     /note="This gene has internal stop codons in exon 1."
+                     /pseudo
+     misc_feature    567749..567768
+                     /gene="TRAV5D-2P"
+                     /note="conserved 20-mer; possible promoter"
+                     /pseudo
+     CDS             join(567965..568015,568176..>568480)
+                     /gene="TRAV5D-2P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(567965..568015,568176..>568480)
+                     /gene="TRAV5D-2P"
+                     /pseudo
+     misc_recomb     568481..568487
+                     /gene="TRAV5D-2P"
+                     /note="RSS_heptamer"
+     misc_recomb     568488..568510
+                     /gene="TRAV5D-2P"
+                     /note="RSS_spacer"
+     gene            568494..570222
+                     /gene="TRAV12D-2"
+                     /note="Other name TCRAV8S3"
+     misc_feature    568494..569513
+                     /gene="TRAV12D-2"
+                     /note="conserved 20-mer; possible promoter"
+     misc_recomb     568511..568519
+                     /gene="TRAV5D-2P"
+                     /note="RSS_nonamer"
+     CDS             join(569668..569719,569892..>570183)
+                     /gene="TRAV12D-2"
+                     /codon_start=1
+                     /product="TRAV12D-2"
+                     /protein_id="AAL08147.1"
+                     /db_xref="GI:15795259"
+     V_segment       join(569668..569719,569892..>570183)
+                     /gene="TRAV12D-2"
+     misc_recomb     570184..570190
+                     /gene="TRAV12D-2"
+                     /note="RSS_heptamer"
+     misc_recomb     570191..570213
+                     /gene="TRAV12D-2"
+                     /note="RSS_spacer"
+     misc_recomb     570214..570222
+                     /gene="TRAV12D-2"
+                     /note="RSS_nonamer"
+     gene            574141..574914
+                     /gene="TRAV9D-3"
+                     /note="Other name TCRAV3S3"
+     misc_feature    574141..574160
+                     /gene="TRAV9D-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(574441..574486,574582..>574875)
+                     /gene="TRAV9D-3"
+                     /codon_start=1
+                     /product="TRAV9D-3"
+                     /protein_id="AAL08148.1"
+                     /db_xref="GI:15795260"
+     V_segment       join(574441..574486,574582..>574875)
+                     /gene="TRAV9D-3"
+     misc_recomb     574876..574882
+                     /gene="TRAV9D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     574883..574905
+                     /gene="TRAV9D-3"
+                     /note="RSS_spacer"
+     misc_recomb     574906..574914
+                     /gene="TRAV9D-3"
+                     /note="RSS_nonamer"
+     gene            583970..584318
+                     /gene="TRAV5D-3P"
+                     /note="This gene lacks exon 1"
+                     /pseudo
+     CDS             583970..>584279
+                     /gene="TRAV5D-3P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       583970..>584279
+                     /gene="TRAV5D-3P"
+                     /pseudo
+     misc_recomb     584280..584286
+                     /gene="TRAV5D-3P"
+                     /note="RSS_heptamer"
+     misc_recomb     584287..584309
+                     /gene="TRAV5D-3P"
+                     /note="RSS_spacer"
+     misc_recomb     584310..584318
+                     /gene="TRAV5D-3P"
+                     /note="RSS_nonamer"
+     gene            585270..585989
+                     /gene="TRAV12D-3"
+                     /note="Other name TCRAV8S2"
+     misc_feature    585270..585289
+                     /gene="TRAV12D-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(585458..585503,585650..>585950)
+                     /gene="TRAV12D-3"
+                     /codon_start=1
+                     /product="TRAV12D-3"
+                     /protein_id="AAL08149.1"
+                     /db_xref="GI:15795261"
+     V_segment       join(585458..585503,585650..>585950)
+                     /gene="TRAV12D-3"
+     misc_recomb     585951..585957
+                     /gene="TRAV12D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     585958..585980
+                     /gene="TRAV12D-3"
+                     /note="RSS_spacer"
+     misc_recomb     585981..585989
+                     /gene="TRAV12D-3"
+                     /note="RSS_nonamer"
+     gene            598420..598970
+                     /gene="TRAV13D-2"
+                     /note="Other name TCRAV10S6"
+     CDS             join(598420..598471,598653..>598931)
+                     /gene="TRAV13D-2"
+                     /codon_start=1
+                     /product="TRAV13D-2"
+                     /protein_id="AAL08150.1"
+                     /db_xref="GI:15795262"
+     V_segment       join(598420..598471,598653..>598931)
+                     /gene="TRAV13D-2"
+     misc_recomb     598932..598938
+                     /gene="TRAV13D-2"
+                     /note="RSS_heptamer"
+     misc_recomb     598939..598961
+                     /gene="TRAV13D-2"
+                     /note="RSS_spacer"
+     misc_recomb     598962..598970
+                     /gene="TRAV13D-2"
+                     /note="RSS_nonamer"
+     gene            604052..604750
+                     /gene="TRAV14D-2"
+                     /note="Other name TCRAV2S5"
+     misc_feature    604052..604071
+                     /gene="TRAV14D-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(604212..604263,604400..>604711)
+                     /gene="TRAV14D-2"
+                     /codon_start=1
+                     /product="TRAV14D-2"
+                     /protein_id="AAL08151.1"
+                     /db_xref="GI:15795263"
+     V_segment       join(604212..604263,604400..>604711)
+                     /gene="TRAV14D-2"
+     misc_recomb     604712..604718
+                     /gene="TRAV14D-2"
+                     /note="RSS_heptamer"
+     misc_recomb     604719..604741
+                     /gene="TRAV14D-2"
+                     /note="RSS_spacer"
+     misc_recomb     604742..604750
+                     /gene="TRAV14D-2"
+                     /note="RSS_nonamer"
+     gene            612378..612989
+                     /gene="TRADV15D-2"
+                     /note="Other name TCRDV7S5"
+     CDS             join(612378..612426,612648..>612950)
+                     /gene="TRADV15D-2"
+                     /codon_start=1
+                     /product="TRADV15D-2"
+                     /protein_id="AAL08152.1"
+                     /db_xref="GI:15795264"
+     V_segment       join(612378..612426,612648..>612950)
+                     /gene="TRADV15D-2"
+     misc_recomb     612951..612957
+                     /gene="TRADV15D-2"
+                     /note="RSS_heptamer"
+     misc_recomb     612958..612980
+                     /gene="TRADV15D-2"
+                     /note="RSS_spacer"
+     misc_recomb     612981..612989
+                     /gene="TRADV15D-2"
+                     /note="RSS_nonamer"
+     gene            complement(624923..625955)
+                     /gene="mitochondrial asparate aminotransferase isoenzyme"
+                     /pseudo
+     gene            627939..628645
+                     /gene="TRAV3D-3"
+                     /note="Other name TCRAV5S2"
+     misc_feature    627939..627958
+                     /gene="TRAV3D-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(628105..628156,628316..>628606)
+                     /gene="TRAV3D-3"
+                     /codon_start=1
+                     /product="TRAV3D-3"
+                     /protein_id="AAL08153.1"
+                     /db_xref="GI:15795265"
+     V_segment       join(628105..628156,628316..>628606)
+                     /gene="TRAV3D-3"
+     misc_recomb     628607..628613
+                     /gene="TRAV3D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     628614..628636
+                     /gene="TRAV3D-3"
+                     /note="RSS_spacer"
+     misc_recomb     628637..628645
+                     /gene="TRAV3D-3"
+                     /note="RSS_nonamer"
+     gene            637776..638549
+                     /gene="TRAV9D-4"
+                     /note="Other name TCRAV3S5"
+     misc_feature    637776..637795
+                     /gene="TRAV9D-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(638076..638121,638217..>638510)
+                     /gene="TRAV9D-4"
+                     /codon_start=1
+                     /product="TRAV9D-4"
+                     /protein_id="AAL08154.1"
+                     /db_xref="GI:15795266"
+     V_segment       join(638076..638121,638217..>638510)
+                     /gene="TRAV9D-4"
+     misc_recomb     638511..638517
+                     /gene="TRAV9D-4"
+                     /note="RSS_heptamer"
+     misc_recomb     638518..638540
+                     /gene="TRAV9D-4"
+                     /note="RSS_spacer"
+     misc_recomb     638541..638549
+                     /gene="TRAV9D-4"
+                     /note="RSS_nonamer"
+     gene            644988..646293
+                     /gene="TRAV4D-4"
+                     /note="Other name TCRAV11S1"
+     misc_feature    644988..645019
+                     /gene="TRAV4D-4"
+                     /note="conserved 20-mer"
+     CDS             join(645754..645805,645976..>646254)
+                     /gene="TRAV4D-4"
+                     /codon_start=1
+                     /product="TRAV4D-4"
+                     /protein_id="AAL08155.1"
+                     /db_xref="GI:15795267"
+     V_segment       join(645754..645805,645976..>646254)
+                     /gene="TRAV4D-4"
+     misc_recomb     646255..646261
+                     /gene="TRAV4D-4"
+                     /note="RSS_heptamer"
+     misc_recomb     646262..646284
+                     /gene="TRAV4D-4"
+                     /note="RSS_spacer"
+     misc_recomb     646285..646293
+                     /gene="TRAV4D-4"
+                     /note="RSS_nonamer"
+     misc_feature    662478..662523
+                     /note="conserved block with human counter part region"
+     gene            663533..664302
+                     /gene="TRAV5D-4"
+                     /note="Other name TCRAV13S1"
+     misc_feature    663533..663552
+                     /gene="TRAV5D-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(663756..663807,663973..>664263)
+                     /gene="TRAV5D-4"
+                     /codon_start=1
+                     /product="TRAV5D-4"
+                     /protein_id="AAL08156.1"
+                     /db_xref="GI:15795268"
+     V_segment       join(663756..663807,663973..>664263)
+                     /gene="TRAV5D-4"
+     misc_recomb     664264..664270
+                     /gene="TRAV5D-4"
+                     /note="RSS_heptamer"
+     misc_recomb     664271..664293
+                     /gene="TRAV5D-4"
+                     /note="RSS_spacer"
+     misc_recomb     664294..664302
+                     /gene="TRAV5D-4"
+                     /note="RSS_nonamer"
+     gene            669515..670145
+                     /gene="TRAV6D-7"
+                     /note="Other name TCRAV4S9"
+     misc_feature    669515..669534
+                     /gene="TRAV6D-7"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(669640..669685,669815..>670106)
+                     /gene="TRAV6D-7"
+                     /codon_start=1
+                     /product="TRAV6D-7"
+                     /protein_id="AAL08157.1"
+                     /db_xref="GI:15795269"
+     V_segment       join(669640..669685,669815..>670106)
+                     /gene="TRAV6D-7"
+     misc_recomb     670107..670113
+                     /gene="TRAV6D-7"
+                     /note="RSS_heptamer"
+     misc_recomb     670114..670136
+                     /gene="TRAV6D-7"
+                     /note="RSS_spacer"
+     misc_recomb     670137..670145
+                     /gene="TRAV6D-7"
+                     /note="RSS_nonamer"
+     gene            675139..676752
+                     /gene="TRAV7D-6"
+     misc_feature    675139..675158
+                     /gene="TRAV7D-6"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(676181..676229,676426..>676713)
+                     /gene="TRAV7D-6"
+                     /codon_start=1
+                     /product="TRAV7D-6"
+                     /protein_id="AAL08158.1"
+                     /db_xref="GI:15795270"
+     V_segment       join(676181..676229,676426..>676713)
+                     /gene="TRAV7D-6"
+     misc_recomb     676714..676720
+                     /gene="TRAV7D-6"
+                     /note="RSS_heptamer"
+     misc_recomb     676721..676743
+                     /gene="TRAV7D-6"
+                     /note="RSS_spacer"
+     misc_recomb     676744..676752
+                     /gene="TRAV7D-6"
+                     /note="RSS_nonamer"
+     gene            686541..690061
+                     /gene="TRAV13D-3"
+                     /note="Other name TCRAV10S5"
+     misc_feature    686541..686560
+                     /gene="TRAV13D-3"
+                     /note="conserved 20-mer"
+     CDS             join(689508..689559,689741..>690022)
+                     /gene="TRAV13D-3"
+                     /codon_start=1
+                     /product="TRAV13D-3"
+                     /protein_id="AAL08159.1"
+                     /db_xref="GI:15795271"
+     V_segment       join(689508..689559,689741..>690022)
+                     /gene="TRAV13D-3"
+     misc_recomb     690023..690029
+                     /gene="TRAV13D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     690030..690052
+                     /gene="TRAV13D-3"
+                     /note="RSS_spacer"
+     misc_recomb     690053..690061
+                     /gene="TRAV13D-3"
+                     /note="RSS_nonamer"
+     gene            697883..698606
+                     /gene="TRAV8D-2"
+     misc_feature    697883..697902
+                     /gene="TRAV8D-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(698104..698155,698283..>698567)
+                     /gene="TRAV8D-2"
+                     /codon_start=1
+                     /product="TRAV8D-2"
+                     /protein_id="AAL08160.1"
+                     /db_xref="GI:15795272"
+     V_segment       join(698104..698155,698283..>698567)
+                     /gene="TRAV8D-2"
+     misc_recomb     698568..698574
+                     /gene="TRAV8D-2"
+                     /note="RSS_heptamer"
+     misc_recomb     698575..698597
+                     /gene="TRAV8D-2"
+                     /note="RSS_spacer"
+     misc_recomb     698598..698606
+                     /gene="TRAV8D-2"
+                     /note="RSS_nonamer"
+     gene            703119..703768
+                     /gene="TRADV16D"
+                     /note="Other name TCRAV17S1"
+     misc_feature    703119..703138
+                     /gene="TRADV16D"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(703198..703246,703426..>703729)
+                     /gene="TRADV16D"
+                     /codon_start=1
+                     /product="TRADV16D"
+                     /protein_id="AAL08161.1"
+                     /db_xref="GI:15795273"
+     V_segment       join(703198..703246,703426..>703729)
+                     /gene="TRADV16D"
+     misc_recomb     703730..703736
+                     /gene="TRADV16D"
+                     /note="RSS_heptamer"
+     misc_recomb     703737..703759
+                     /gene="TRADV16D"
+                     /note="RSS_spacer"
+     misc_recomb     703760..703768
+                     /gene="TRADV16D"
+                     /note="RSS_nonamer"
+     gene            719072..720853
+                     /gene="TRA13D-4"
+                     /note="Other name TCRAV10S3"
+     CDS             join(719072..719123,720536..>720814)
+                     /gene="TRA13D-4"
+                     /codon_start=1
+                     /product="TRA13D-4"
+                     /protein_id="AAL08162.1"
+                     /db_xref="GI:15795274"
+     V_segment       join(719072..719123,720536..>720814)
+                     /gene="TRA13D-4"
+     misc_recomb     720815..720821
+                     /gene="TRA13D-4"
+                     /note="RSS_heptamer"
+     misc_recomb     720822..720844
+                     /gene="TRA13D-4"
+                     /note="RSS_spacer"
+     misc_recomb     720845..720853
+                     /gene="TRA13D-4"
+                     /note="RSS_nonamer"
+     gene            726626..727324
+                     /gene="TRADV14D-3"
+                     /note="Other name TCRADV2S8"
+     misc_feature    726626..726645
+                     /gene="TRADV14D-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(726787..726838,726977..>727285)
+                     /gene="TRADV14D-3"
+                     /codon_start=1
+                     /product="TRADV14D-3"
+                     /protein_id="AAL08163.1"
+                     /db_xref="GI:15795275"
+     V_segment       join(726787..726838,726977..>727285)
+                     /gene="TRADV14D-3"
+     misc_recomb     727286..727292
+                     /gene="TRADV14D-3"
+                     /note="RSS_heptamer"
+     misc_recomb     727293..727315
+                     /gene="TRADV14D-3"
+                     /note="RSS_spacer"
+     misc_recomb     727316..727324
+                     /gene="TRADV14D-3"
+                     /note="RSS_nonamer"
+     gene            730724..731095
+                     /gene="TRAV15D-3P"
+                     /note="This gene has a stop cocon in exon 2 and defects in
+                     splice sites."
+                     /pseudo
+     CDS             join(730724..730772,731004..>731095)
+                     /gene="TRAV15D-3P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(730724..730772,731004..>731095)
+                     /gene="TRAV15D-3P"
+                     /pseudo
+     gene            complement(746336..747073)
+                     /gene="TRAV7-2"
+                     /note="Other name TCRAV1S7"
+     misc_recomb     complement(746336..746344)
+                     /gene="TRAV7-2"
+                     /note="RSS_nonamer"
+     misc_recomb     complement(746345..746367)
+                     /gene="TRAV7-2"
+                     /note="RSS_spacer"
+     misc_recomb     complement(746368..746374)
+                     /gene="TRAV7-2"
+                     /note="RSS_heptamer"
+     CDS             complement(join(<746375..746662,746840..746888))
+                     /gene="TRAV7-2"
+                     /codon_start=1
+                     /product="TRAV7-2"
+                     /protein_id="AAL08164.1"
+                     /db_xref="GI:15795276"
+     V_segment       complement(join(<746375..746662,746840..746888))
+                     /gene="TRAV7-2"
+     misc_feature    complement(747054..747073)
+                     /gene="TRAV7-2"
+                     /note="conserved 20-mer; possible promoter"
+     gene            761239..761426
+                     /gene="RPRH3-like gene"
+                     /note="RPRH3 is RNAse P RNA subunite gene"
+                     /pseudo
+     misc_feature    769677..769711
+                     /note="conserved block with human counter part region"
+     gene            770833..771358
+                     /gene="TRAV4-2"
+     CDS             join(770833..770884,771041..>771319)
+                     /gene="TRAV4-2"
+                     /codon_start=1
+                     /product="TRAV4-2"
+                     /protein_id="AAL08165.1"
+                     /db_xref="GI:15795277"
+     V_segment       join(770833..770884,771041..>771319)
+                     /gene="TRAV4-2"
+     misc_recomb     771320..771326
+                     /gene="TRAV4-2"
+                     /note="RSS_heptamer"
+     misc_recomb     771327..771349
+                     /gene="TRAV4-2"
+                     /note="RSS_spacer"
+     misc_recomb     771350..771358
+                     /gene="TRAV4-2"
+                     /note="RSS_nonamer"
+     gene            785802..787618
+                     /gene="TRAV6-3"
+                     /note="Other name TCRAV4S11"
+     misc_feature    785802..785821
+                     /gene="TRAV6-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(785936..785981,787288..>787579)
+                     /gene="TRAV6-3"
+                     /codon_start=1
+                     /product="TRAV6-3"
+                     /protein_id="AAL08166.1"
+                     /db_xref="GI:15795278"
+     V_segment       join(785936..785981,787288..>787579)
+                     /gene="TRAV6-3"
+     misc_recomb     787580..787586
+                     /gene="TRAV6-3"
+                     /note="RSS_heptamer"
+     misc_recomb     787587..787609
+                     /gene="TRAV6-3"
+                     /note="RSS_spacer"
+     misc_recomb     787610..787618
+                     /gene="TRAV6-3"
+                     /note="RSS_nonamer"
+     gene            799434..800235
+                     /gene="TRAV7-3"
+                     /note="Other name TCRAV1S1"
+     misc_feature    799434..799453
+                     /gene="TRAV7-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(799671..799719,799909..>800196)
+                     /gene="TRAV7-3"
+                     /codon_start=1
+                     /product="TRAV7-3"
+                     /protein_id="AAL08167.1"
+                     /db_xref="GI:15795279"
+     V_segment       join(799671..799719,799909..>800196)
+                     /gene="TRAV7-3"
+     misc_recomb     800197..800203
+                     /gene="TRAV7-3"
+                     /note="RSS_heptamer"
+     misc_recomb     800204..800226
+                     /gene="TRAV7-3"
+                     /note="RSS_spacer"
+     misc_recomb     800227..800235
+                     /gene="TRAV7-3"
+                     /note="RSS_nonamer"
+     gene            812507..813132
+                     /gene="TRAV6-4"
+     misc_feature    812507..812526
+                     /gene="TRAV6-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(812636..812684,812796..>813093)
+                     /gene="TRAV6-4"
+                     /codon_start=1
+                     /product="TRAV6-4"
+                     /protein_id="AAL08168.1"
+                     /db_xref="GI:15795281"
+     V_segment       join(812636..812684,812796..>813093)
+                     /gene="TRAV6-4"
+     misc_recomb     813094..813100
+                     /gene="TRAV6-4"
+                     /note="RSS_heptamer"
+     misc_recomb     813101..813123
+                     /gene="TRAV6-4"
+                     /note="RSS_spacer"
+     misc_recomb     813124..813132
+                     /gene="TRAV6-4"
+                     /note="RSS_nonamer"
+     gene            819272..820110
+                     /gene="TRAV7-4"
+                     /note="Other name TCRAV1S4"
+     misc_feature    819272..819291
+                     /gene="TRAV7-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(819542..819590,819780..>820071)
+                     /gene="TRAV7-4"
+                     /codon_start=1
+                     /product="TRAV7-4"
+                     /protein_id="AAL08169.1"
+                     /db_xref="GI:15795282"
+     V_segment       join(819542..819590,819780..>820071)
+                     /gene="TRAV7-4"
+     misc_recomb     820072..820078
+                     /gene="TRAV7-4"
+                     /note="RSS_heptamer"
+     misc_recomb     820079..820101
+                     /gene="TRAV7-4"
+                     /note="RSS_spacer"
+     misc_recomb     820102..820110
+                     /gene="TRAV7-4"
+                     /note="RSS_nonamer"
+     gene            827816..828593
+                     /gene="TRAV8-1"
+                     /note="Other name TCRAV18S1"
+     misc_feature    827816..827835
+                     /gene="TRAV8-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(828069..828120,828270..>828554)
+                     /gene="TRAV8-1"
+                     /codon_start=1
+                     /product="TRAV8-1"
+                     /protein_id="AAL08170.1"
+                     /db_xref="GI:15795283"
+     V_segment       join(828069..828120,828270..828554)
+                     /gene="TRAV8-1"
+     misc_recomb     828555..828561
+                     /gene="TRAV8-1"
+                     /note="RSS_heptamer"
+     misc_recomb     828562..828584
+                     /gene="TRAV8-1"
+                     /note="RSS_spacer"
+     misc_recomb     828585..828593
+                     /gene="TRAV8-1"
+                     /note="RSS_nonamer"
+     gene            857423..858238
+                     /gene="TRAV9-1"
+                     /note="Other name TCRAV3S8"
+     misc_feature    857423..857442
+                     /gene="TRAV9-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(857738..857783,857909..>858199)
+                     /gene="TRAV9-1"
+                     /codon_start=1
+                     /product="TRAV9-1"
+                     /protein_id="AAL08171.1"
+                     /db_xref="GI:15795284"
+     V_segment       join(857738..857783,857909..>858199)
+                     /gene="TRAV9-1"
+     misc_recomb     858200..858206
+                     /gene="TRAV9-1"
+                     /note="RSS_heptamer"
+     misc_recomb     858207..858229
+                     /gene="TRAV9-1"
+                     /note="RSS_spacer"
+     misc_recomb     858230..858238
+                     /gene="TRAV9-1"
+                     /note="RSS_nonamer"
+     gene            860335..861089
+                     /gene="TRAV6-5"
+     misc_feature    860335..860354
+                     /gene="TRAV6-5"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(860578..860623,860759..>861050)
+                     /gene="TRAV6-5"
+                     /codon_start=1
+                     /product="TRAV6-5"
+                     /protein_id="AAL08172.1"
+                     /db_xref="GI:15795285"
+     V_segment       join(860578..860623,860759..>861050)
+                     /gene="TRAV6-5"
+     misc_recomb     861051..861057
+                     /gene="TRAV6-5"
+                     /note="RSS_heptamer"
+     misc_recomb     861058..861080
+                     /gene="TRAV6-5"
+                     /note="RSS_spacer"
+     misc_recomb     861081..861089
+                     /gene="TRAV6-5"
+                     /note="RSS_nonamer"
+     gene            880873..881627
+                     /gene="TRAV10"
+                     /note="Other name TCRAV15S1"
+     misc_feature    880873..880892
+                     /gene="TRAV10"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(881092..881143,881298..>881588)
+                     /gene="TRAV10"
+                     /codon_start=1
+                     /product="TRAV10"
+                     /protein_id="AAL08173.1"
+                     /db_xref="GI:15795286"
+     V_segment       join(881092..881143,881298..>881588)
+                     /gene="TRAV10"
+     misc_recomb     881589..881595
+                     /gene="TRAV10"
+                     /note="RSS_heptamer"
+     misc_recomb     881596..881618
+                     /gene="TRAV10"
+                     /note="RSS_spacer"
+     misc_recomb     881619..881627
+                     /gene="TRAV10"
+                     /note="RSS_nonamer"
+     gene            892010..892617
+                     /gene="TRAV6-6"
+                     /note="Other name TCRAV4S4"
+     misc_feature    892010..892029
+                     /gene="TRAV6-6"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(892141..892186,892281..>892578)
+                     /gene="TRAV6-6"
+                     /codon_start=1
+                     /product="TRAV6-6"
+                     /protein_id="AAL08174.1"
+                     /db_xref="GI:15795287"
+     V_segment       join(892141..892186,892281..>892578)
+                     /gene="TRAV6-6"
+     misc_recomb     892579..892585
+                     /gene="TRAV6-6"
+                     /note="RSS_heptamer"
+     misc_recomb     892586..892608
+                     /gene="TRAV6-6"
+                     /note="RSS_spacer"
+     misc_recomb     892609..892617
+                     /gene="TRAV6-6"
+                     /note="RSS_nonamer"
+     gene            894321..895140
+                     /gene="TRAV11"
+                     /note="Other name TCRAV14S2"
+     misc_feature    894321..894340
+                     /gene="TRAV11"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(894549..894600,894811..>895101)
+                     /gene="TRAV11"
+                     /codon_start=1
+                     /product="TRAV11"
+                     /protein_id="AAL08175.1"
+                     /db_xref="GI:15795288"
+     V_segment       join(894549..894600,894811..>895101)
+                     /gene="TRAV11"
+     misc_recomb     895102..895108
+                     /gene="TRAV11"
+                     /note="RSS_heptamer"
+     misc_recomb     895109..895131
+                     /gene="TRAV11"
+                     /note="RSS_spacer"
+     misc_recomb     895132..895140
+                     /gene="TRAV11"
+                     /note="RSS_nonamer"
+     gene            912310..913062
+                     /gene="TRAV7-5"
+     misc_feature    912310..912329
+                     /gene="TRAV7-5"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(912496..912544,912736..>913023)
+                     /gene="TRAV7-5"
+                     /codon_start=1
+                     /product="TRAV7-5"
+                     /protein_id="AAL08176.1"
+                     /db_xref="GI:15795289"
+     V_segment       join(912496..912544,912736..>913023)
+                     /gene="TRAV7-5"
+     misc_recomb     913024..913030
+                     /gene="TRAV7-5"
+                     /note="RSS_heptamer"
+     misc_recomb     913031..913053
+                     /gene="TRAV7-5"
+                     /note="RSS_spacer"
+     misc_recomb     913054..913062
+                     /gene="TRAV7-5"
+                     /note="RSS_nonamer"
+     gene            929579..930277
+                     /gene="TRAV12-1"
+                     /note="Other name TCRAV8S9"
+     misc_feature    929579..929598
+                     /gene="TRAV12-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(929766..929811,929944..>930238)
+                     /gene="TRAV12-1"
+                     /codon_start=1
+                     /product="TRAV12-1"
+                     /protein_id="AAL08177.1"
+                     /db_xref="GI:15795290"
+     V_segment       join(929766..929811,929944..>930238)
+                     /gene="TRAV12-1"
+     misc_recomb     930239..930245
+                     /gene="TRAV12-1"
+                     /note="RSS_heptamer"
+     misc_recomb     930246..930268
+                     /gene="TRAV12-1"
+                     /note="RSS_spacer"
+     misc_recomb     930269..930277
+                     /gene="TRAV12-1"
+                     /note="RSS_nonamer"
+     gene            936548..937098
+                     /gene="TRAV13-1"
+                     /note="Other name TCRAV10S8; conserved 20-mer; possible
+                     promoter"
+     CDS             join(936548..936599,936781..>937059)
+                     /gene="TRAV13-1"
+                     /codon_start=1
+                     /product="TRAV13-1"
+                     /protein_id="AAL08178.1"
+                     /db_xref="GI:15795291"
+     V_segment       join(936548..936599,936781..>937059)
+                     /gene="TRAV13-1"
+     misc_recomb     937060..937066
+                     /gene="TRAV13-1"
+                     /note="RSS_heptamer"
+     misc_recomb     937067..937089
+                     /gene="TRAV13-1"
+                     /note="RSS_spacer"
+     misc_recomb     937090..937098
+                     /gene="TRAV13-1"
+                     /note="RSS_nonamer"
+     gene            940883..941585
+                     /gene="TRAV14-1"
+                     /note="Other name TCRAV2S2"
+     misc_feature    940883..940902
+                     /gene="TRAV14-1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(941045..941096,941235..>941546)
+                     /gene="TRAV14-1"
+                     /codon_start=1
+                     /product="TRAV14-1"
+                     /protein_id="AAL08179.1"
+                     /db_xref="GI:15795292"
+     V_segment       join(941045..941096,941235..>941546)
+                     /gene="TRAV14-1"
+     misc_recomb     941547..941553
+                     /gene="TRAV14-1"
+                     /note="RSS_heptamer"
+     misc_recomb     941554..941576
+                     /gene="TRAV14-1"
+                     /note="RSS_spacer"
+     misc_recomb     941577..941585
+                     /gene="TRAV14-1"
+                     /note="RSS_nonamer"
+     gene            946658..947268
+                     /gene="TRADV15-1"
+                     /note="Other name TCRADV7S2; conserved 20-mer; possible
+                     promoter"
+     CDS             join(946658..946706,946927..>947229)
+                     /gene="TRADV15-1"
+                     /codon_start=1
+                     /product="TRADV15-1"
+                     /protein_id="AAL08180.1"
+                     /db_xref="GI:15795293"
+     V_segment       join(946658..946706,946927..>947229)
+                     /gene="TRADV15-1"
+     misc_recomb     947230..947236
+                     /gene="TRADV15-1"
+                     /note="RSS_heptamer"
+     misc_recomb     947237..947259
+                     /gene="TRADV15-1"
+                     /note="RSS_spacer"
+     misc_recomb     947260..947268
+                     /gene="TRADV15-1"
+                     /note="RSS_nonamer"
+     gene            967847..968577
+                     /gene="TRAV3-2P"
+                     /note="This gene lacks start codon and has internal stop
+                     codons in exon 2"
+                     /pseudo
+     misc_feature    967847..967866
+                     /gene="TRAV3-2P"
+                     /note="conserved 20-mer; possible promoter"
+                     /pseudo
+     CDS             join(968042..968093,968254..>968538)
+                     /gene="TRAV3-2P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(968042..968093,968254..>968538)
+                     /gene="TRAV3-2P"
+                     /pseudo
+     misc_recomb     968539..968545
+                     /gene="TRAV3-2P"
+                     /note="RSS_heptamer"
+     misc_recomb     968546..968568
+                     /gene="TRAV3-2P"
+                     /note="RSS_spacer"
+     misc_recomb     968569..968577
+                     /gene="TRAV3-2P"
+                     /note="RSS_nonamer"
+     gene            972343..973116
+                     /gene="TRAV9-2"
+     misc_feature    972343..972362
+                     /gene="TRAV9-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(972643..972688,972784..>973077)
+                     /gene="TRAV9-2"
+                     /codon_start=1
+                     /product="TRAV9-2"
+                     /protein_id="AAL08181.1"
+                     /db_xref="GI:15795294"
+     V_segment       join(972643..972688,972784..>973077)
+                     /gene="TRAV9-2"
+     misc_recomb     973078..973084
+                     /gene="TRAV9-2"
+                     /note="RSS_heptamer"
+     misc_recomb     973085..973107
+                     /gene="TRAV9-2"
+                     /note="RSS_spacer"
+     misc_recomb     973108..973116
+                     /gene="TRAV9-2"
+                     /note="RSS_nonamer"
+     misc_feature    979027..979046
+                     /note="conserved 20-mer"
+     gene            980295..980988
+                     /gene="TRAV4-3"
+                     /note="Other name TCRADV11S4"
+     misc_feature    980295..980314
+                     /gene="TRAV4-3"
+                     /note="conserved 20-mer; possible promoter"
+     misc_feature    980369..980399
+                     /gene="TRAV4-3"
+                     /note="conserved block"
+     CDS             join(980447..980498,980671..>980949)
+                     /gene="TRAV4-3"
+                     /codon_start=1
+                     /product="TRAV4-3"
+                     /protein_id="AAL08182.1"
+                     /db_xref="GI:15795295"
+     V_segment       join(980447..980498,980671..>980949)
+                     /gene="TRAV4-3"
+     misc_recomb     980950..980956
+                     /gene="TRAV4-3"
+                     /note="RSS_heptamer"
+     misc_recomb     980957..980979
+                     /gene="TRAV4-3"
+                     /note="RSS_spacer"
+     misc_recomb     980980..980988
+                     /gene="TRAV4-3"
+                     /note="RSS_nonamer"
+     gene            1007519..1008274
+                     /gene="TRAV5-2P"
+                     /note="This gene has stop codons in exon 1"
+                     /pseudo
+     misc_feature    1007519..1007538
+                     /gene="TRAV5-2P"
+                     /note="conserved 20-mer; possible promoter"
+                     /pseudo
+     CDS             join(1007735..1007785,1007945..>1008235)
+                     /gene="TRAV5-2P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(1007735..1007785,1007945..>1008235)
+                     /gene="TRAV5-2P"
+                     /pseudo
+     misc_recomb     1008236..1008242
+                     /gene="TRAV5-2P"
+                     /note="RSS_heptamer"
+     misc_recomb     1008243..1008265
+                     /gene="TRAV5-2P"
+                     /note="RSS_spacer"
+     misc_recomb     1008266..1008274
+                     /gene="TRAV5-2P"
+                     /note="RSS_nonamer"
+     gene            1009268..1010017
+                     /gene="TRAV12-2"
+                     /note="Other name TCRAV8S13"
+     misc_feature    1009268..1009287
+                     /gene="TRAV12-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1009445..1009496,1009687..>1009978)
+                     /gene="TRAV12-2"
+                     /codon_start=1
+                     /product="TRAV12-2"
+                     /protein_id="AAL08183.1"
+                     /db_xref="GI:15795296"
+     V_segment       join(1009445..1009496,1009687..>1009978)
+                     /gene="TRAV12-2"
+     misc_recomb     1009979..1009985
+                     /gene="TRAV12-2"
+                     /note="RSS_heptamer"
+     misc_recomb     1009986..1010008
+                     /gene="TRAV12-2"
+                     /note="RSS_spacer"
+     misc_recomb     1010009..1010017
+                     /gene="TRAV12-2"
+                     /note="RSS_nonamer"
+     gene            1013962..1014735
+                     /gene="TRAV9-3"
+                     /note="Other name TCRAV3S7"
+     misc_feature    1013962..1013981
+                     /gene="TRAV9-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1014262..1014307,1014403..>1014696)
+                     /gene="TRAV9-3"
+                     /codon_start=1
+                     /product="TRAV9-3"
+                     /protein_id="AAL08184.1"
+                     /db_xref="GI:15795297"
+     V_segment       join(1014262..1014307,1014403..>1014696)
+                     /gene="TRAV9-3"
+     misc_recomb     1014697..1014703
+                     /gene="TRAV9-3"
+                     /note="RSS_heptamer"
+     misc_recomb     1014704..1014726
+                     /gene="TRAV9-3"
+                     /note="RSS_spacer"
+     misc_recomb     1014727..1014735
+                     /gene="TRAV9-3"
+                     /note="RSS_nonamer"
+     gene            1021844..1022204
+                     /gene="TRAV5-3P"
+                     /note="This gene is missing exon 1."
+                     /pseudo
+     CDS             1021844..>1022165
+                     /gene="TRAV5-3P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       1021844..>1022165
+                     /gene="TRAV5-3P"
+                     /pseudo
+     misc_recomb     1022166..1022172
+                     /gene="TRAV5-3P"
+                     /note="RSS_heptamer"
+     misc_recomb     1022173..1022195
+                     /gene="TRAV5-3P"
+                     /note="RSS_spacer"
+     misc_recomb     1022196..1022204
+                     /gene="TRAV5-3P"
+                     /note="RSS_nonamer"
+     gene            1023157..1023873
+                     /gene="TRAV12-3"
+                     /note="Other name TCRAV8S2"
+     misc_feature    1023157..1023176
+                     /gene="TRAV12-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1023341..1023386,1023534..>1023834)
+                     /gene="TRAV12-3"
+                     /codon_start=1
+                     /product="TRAV12-3"
+                     /protein_id="AAL08185.1"
+                     /db_xref="GI:15795298"
+     V_segment       join(1023341..1023386,1023534..>1023834)
+                     /gene="TRAV12-3"
+     misc_recomb     1023835..1023841
+                     /gene="TRAV12-3"
+                     /note="RSS_heptamer"
+     misc_recomb     1023842..1023864
+                     /gene="TRAV12-3"
+                     /note="RSS_spacer"
+     misc_recomb     1023865..1023873
+                     /gene="TRAV12-3"
+                     /note="RSS_nonamer"
+     gene            1036320..1036870
+                     /gene="TRAV13-2"
+                     /note="Other name TCRAV10S1"
+     CDS             join(1036320..1036371,1036553..>1036831)
+                     /gene="TRAV13-2"
+                     /codon_start=1
+                     /product="TRAV13-2"
+                     /protein_id="AAL08186.1"
+                     /db_xref="GI:15795299"
+     V_segment       join(1036320..1036371,1036553..>1036831)
+                     /gene="TRAV13-2"
+     misc_recomb     1036832..1036838
+                     /gene="TRAV13-2"
+                     /note="RSS_heptamer"
+     misc_recomb     1036839..1036861
+                     /gene="TRAV13-2"
+                     /note="RSS_spacer"
+     misc_recomb     1036862..1036870
+                     /gene="TRAV13-2"
+                     /note="RSS_nonamer"
+     gene            1042130..1042831
+                     /gene="TRAV14-2"
+                     /note="Other name TCRAV2S9"
+     misc_feature    1042130..1042149
+                     /gene="TRAV14-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1042291..1042342,1042481..>1042792)
+                     /gene="TRAV14-2"
+                     /codon_start=1
+                     /product="TRAV14-2"
+                     /protein_id="AAL08187.1"
+                     /db_xref="GI:15795300"
+     V_segment       join(1042291..1042342,1042481..>1042792)
+                     /gene="TRAV14-2"
+     misc_recomb     1042793..1042799
+                     /gene="TRAV14-2"
+                     /note="RSS_heptamer"
+     misc_recomb     1042800..1042822
+                     /gene="TRAV14-2"
+                     /note="RSS_spacer"
+     misc_recomb     1042823..1042831
+                     /gene="TRAV14-2"
+                     /note="RSS_nonamer"
+     gene            1050316..1050924
+                     /gene="TRDV15-2"
+                     /note="Other name TCRDV7S4"
+     CDS             join(1050316..1050364,1050586..>1050885)
+                     /gene="TRDV15-2"
+                     /codon_start=1
+                     /product="TRDV15-2"
+                     /protein_id="AAL08188.1"
+                     /db_xref="GI:15795301"
+     V_segment       join(1050316..1050364,1050586..>1050885)
+                     /gene="TRDV15-2"
+     misc_recomb     1050886..1050892
+                     /gene="TRDV15-2"
+                     /note="RSS_heptamer"
+     misc_recomb     1050893..1050915
+                     /gene="TRDV15-2"
+                     /note="RSS_spacer"
+     misc_recomb     1050916..1050924
+                     /gene="TRDV15-2"
+                     /note="RSS_nonamer"
+     gene            complement(1062888..1063919)
+                     /gene="mitochondrial asparate aminotransferase isoenzyme"
+                     /note="This gene has an internal stop codon"
+                     /pseudo
+     CDS             complement(1063565..1063876)
+                     /gene="mitochondrial asparate aminotransferase isoenzyme"
+                     /pseudo
+                     /codon_start=1
+     gene            1065895..1066601
+                     /gene="TRAV3-3"
+                     /note="Other name TCRAV5S2"
+     misc_feature    1065895..1065914
+                     /gene="TRAV3-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1066061..1066112,1066272..>1066562)
+                     /gene="TRAV3-3"
+                     /codon_start=1
+                     /product="TRAV3-3"
+                     /protein_id="AAL08189.1"
+                     /db_xref="GI:15795302"
+     V_segment       join(1066061..1066112,1066272..>1066562)
+                     /gene="TRAV3-3"
+     misc_recomb     1066563..1066569
+                     /gene="TRAV3-3"
+                     /note="RSS_heptamer"
+     misc_recomb     1066570..1066592
+                     /gene="TRAV3-3"
+                     /note="RSS_spacer"
+     misc_recomb     1066593..1066601
+                     /gene="TRAV3-3"
+                     /note="RSS_nonamer"
+     gene            1075769..1076542
+                     /gene="TRAV9-4"
+                     /note="Other name TCRAV3S1"
+     misc_feature    1075769..1075788
+                     /gene="TRAV9-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1076069..1076114,1076210..>1076503)
+                     /gene="TRAV9-4"
+                     /codon_start=1
+                     /product="TRAV9-4"
+                     /protein_id="AAL08190.1"
+                     /db_xref="GI:15795303"
+     V_segment       join(1076069..1076114,1076210..>1076503)
+                     /gene="TRAV9-4"
+     misc_recomb     1076504..1076510
+                     /gene="TRAV9-4"
+                     /note="RSS_heptamer"
+     misc_recomb     1076511..1076533
+                     /gene="TRAV9-4"
+                     /note="RSS_spacer"
+     misc_recomb     1076534..1076542
+                     /gene="TRAV9-4"
+                     /note="RSS_nonamer"
+     gene            1083543..1084085
+                     /gene="TRADV4-4"
+                     /note="Other name TCRADV11S5"
+     CDS             join(1083543..1083594,1083765..>1084046)
+                     /gene="TRADV4-4"
+                     /codon_start=1
+                     /product="TRADV4-4"
+                     /protein_id="AAL08191.1"
+                     /db_xref="GI:15795304"
+     V_segment       join(1083543..1083594,1083765..>1084046)
+                     /gene="TRADV4-4"
+     misc_recomb     1084047..1084053
+                     /gene="TRADV4-4"
+                     /note="RSS_heptamer"
+     misc_recomb     1084054..1084076
+                     /gene="TRADV4-4"
+                     /note="RSS_spacer"
+     misc_recomb     1084077..1084085
+                     /gene="TRADV4-4"
+                     /note="RSS_nonamer"
+     gene            1094459..1095229
+                     /gene="TRAV5-4"
+                     /note="Other name TCRAV13S2"
+     misc_feature    1094459..1094478
+                     /gene="TRAV5-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1094682..1094733,1094900..>1095190)
+                     /gene="TRAV5-4"
+                     /codon_start=1
+                     /product="TRAV5-4"
+                     /protein_id="AAL08192.1"
+                     /db_xref="GI:15795305"
+     V_segment       join(1094682..1094733,1094900..>1095190)
+                     /gene="TRAV5-4"
+     misc_recomb     1095191..1095197
+                     /gene="TRAV5-4"
+                     /note="RSS_heptamer"
+     misc_recomb     1095198..1095220
+                     /gene="TRAV5-4"
+                     /note="RSS_spacer"
+     misc_recomb     1095221..1095229
+                     /gene="TRAV5-4"
+                     /note="RSS_nonamer"
+     gene            1100449..1101079
+                     /gene="TRAV6-7"
+                     /note="Other name TCRAV4S9"
+     misc_feature    1100449..1100468
+                     /gene="TRAV6-7"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1100574..1100619,1100749..>1101040)
+                     /gene="TRAV6-7"
+                     /codon_start=1
+                     /product="TRAV6-7"
+                     /protein_id="AAL08193.1"
+                     /db_xref="GI:15795306"
+     V_segment       join(1100574..1100619,1100749..>1101040)
+                     /gene="TRAV6-7"
+     misc_recomb     1101041..1101047
+                     /gene="TRAV6-7"
+                     /note="RSS_heptamer"
+     misc_recomb     1101048..1101070
+                     /gene="TRAV6-7"
+                     /note="RSS_spacer"
+     misc_recomb     1101071..1101079
+                     /gene="TRAV6-7"
+                     /note="RSS_nonamer"
+     gene            1105953..1107448
+                     /gene="TRAV7-6"
+                     /note="Other name TCRAV1S5"
+     misc_feature    1105953..1105972
+                     /gene="TRAV7-6"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1106877..1106925,1107122..>1107409)
+                     /gene="TRAV7-6"
+                     /codon_start=1
+                     /product="TRAV7-6"
+                     /protein_id="AAL08194.1"
+                     /db_xref="GI:15795307"
+     V_segment       join(1106877..1106925,1107122..>1107409)
+                     /gene="TRAV7-6"
+     misc_recomb     1107410..1107416
+                     /gene="TRAV7-6"
+                     /note="RSS_heptamer"
+     misc_recomb     1107417..1107439
+                     /gene="TRAV7-6"
+                     /note="RSS_spacer"
+     misc_recomb     1107440..1107448
+                     /gene="TRAV7-6"
+                     /note="RSS_nonamer"
+     gene            1119275..1119828
+                     /gene="TRAV13-3"
+                     /note="Other name TCRAV10S5"
+     CDS             join(1119275..1119326,1119508..>1119789)
+                     /gene="TRAV13-3"
+                     /codon_start=1
+                     /product="TRAV13-3"
+                     /protein_id="AAL08195.1"
+                     /db_xref="GI:15795308"
+     V_segment       join(1119275..1119326,1119508..>1119789)
+                     /gene="TRAV13-3"
+     misc_recomb     1119790..1119796
+                     /gene="TRAV13-3"
+                     /note="RSS_heptamer"
+     misc_recomb     1119797..1119819
+                     /gene="TRAV13-3"
+                     /note="RSS_spacer"
+     misc_recomb     1119820..1119828
+                     /gene="TRAV13-3"
+                     /note="RSS_nonamer"
+     gene            1128065..1128789
+                     /gene="TRAV8-2"
+     misc_feature    1128065..1128084
+                     /gene="TRAV8-2"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1128287..1128338,1128466..>1128750)
+                     /gene="TRAV8-2"
+                     /codon_start=1
+                     /product="TRAV8-2"
+                     /protein_id="AAL08196.1"
+                     /db_xref="GI:15795309"
+     V_segment       join(1128287..1128338,1128466..>1128750)
+                     /gene="TRAV8-2"
+     misc_recomb     1128751..1128757
+                     /gene="TRAV8-2"
+                     /note="RSS_heptamer"
+     misc_recomb     1128758..1128780
+                     /gene="TRAV8-2"
+                     /note="RSS_spacer"
+     misc_recomb     1128781..1128789
+                     /gene="TRAV8-2"
+                     /note="RSS_nonamer"
+     gene            1133065..1133714
+                     /gene="TRAV16"
+                     /note="Other name TCRAV17S3"
+     misc_feature    1133065..1133084
+                     /gene="TRAV16"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1133144..1133192,1133372..>1133675)
+                     /gene="TRAV16"
+                     /codon_start=1
+                     /product="TRAV16"
+                     /protein_id="AAL08197.1"
+                     /db_xref="GI:15795310"
+     V_segment       join(1133144..1133192,1133372..>1133675)
+                     /gene="TRAV16"
+     misc_recomb     1133676..1133682
+                     /gene="TRAV16"
+                     /note="RSS_heptamer"
+     misc_recomb     1133683..1133705
+                     /gene="TRAV16"
+                     /note="RSS_spacer"
+     misc_recomb     1133706..1133714
+                     /gene="TRAV16"
+                     /note="RSS_nonamer"
+     gene            1158653..1159203
+                     /gene="TRADV13-4"
+                     /note="Other name TCRAV10S7"
+     CDS             join(1158653..1158704,1158886..>1159164)
+                     /gene="TRADV13-4"
+                     /codon_start=1
+                     /product="TRADV13-4"
+                     /protein_id="AAL08198.1"
+                     /db_xref="GI:15795311"
+     V_segment       join(1158653..1158704,1158886..>1159164)
+                     /gene="TRADV13-4"
+     misc_recomb     1159165..1159171
+                     /gene="TRADV13-4"
+                     /note="RSS_heptamer"
+     misc_recomb     1159172..1159194
+                     /gene="TRADV13-4"
+                     /note="RSS_spacer"
+     misc_recomb     1159195..1159203
+                     /gene="TRADV13-4"
+                     /note="RSS_nonamer"
+     gene            1164275..1164974
+                     /gene="TRAV14-3"
+                     /note="Other name TCRAV2S6"
+     misc_feature    1164275..1164294
+                     /gene="TRAV14-3"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1164437..1164488,1164627..>1164935)
+                     /gene="TRAV14-3"
+                     /codon_start=1
+                     /product="TRAV14-3"
+                     /protein_id="AAL08199.1"
+                     /db_xref="GI:15795312"
+     V_segment       join(1164437..1164488,1164627..>1164935)
+                     /gene="TRAV14-3"
+     misc_recomb     1164936..1164942
+                     /gene="TRAV14-3"
+                     /note="RSS_heptamer"
+     misc_recomb     1164943..1164965
+                     /gene="TRAV14-3"
+                     /note="RSS_spacer"
+     misc_recomb     1164966..1164974
+                     /gene="TRAV14-3"
+                     /note="RSS_nonamer"
+     gene            1167954..1168359
+                     /gene="TRAV15-3P"
+                     /note="This gene has an internal stop codon in exon 2 and
+                     defects in slice sites."
+                     /pseudo
+     CDS             join(1167954..1168002,1168234..>1168359)
+                     /gene="TRAV15-3P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(1167954..1168002,1168234..>1168359)
+                     /gene="TRAV15-3P"
+                     /pseudo
+     gene            1185157..1185893
+                     /gene="TRAV3-4"
+     misc_feature    1185157..1185168
+                     /gene="TRAV3-4"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1185353..1185404,1185564..>1185854)
+                     /gene="TRAV3-4"
+                     /codon_start=1
+                     /product="TRAV3-4"
+                     /protein_id="AAL08200.1"
+                     /db_xref="GI:15795313"
+     V_segment       join(1185353..1185405,1185564..>1185854)
+                     /gene="TRAV3-4"
+     misc_recomb     1185855..1185861
+                     /gene="TRAV3-4"
+                     /note="RSS_heptamer"
+     misc_recomb     1185862..1185884
+                     /gene="TRAV3-4"
+                     /note="RSS_spacer"
+     misc_recomb     1185885..1185893
+                     /gene="TRAV3-4"
+                     /note="RSS_nonamer"
+     gene            1186676..1187090
+                     /gene="TRAV12-4P"
+                     /note="This gene is missing exon 1"
+                     /pseudo
+     CDS             1186676..>1187090
+                     /gene="TRAV12-4P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       1186676..>1187090
+                     /gene="TRAV12-4P"
+                     /pseudo
+     gene            1207164..1207711
+                     /gene="TRAV13-5"
+     CDS             join(1207164..1207215,1207397..>1207672)
+                     /gene="TRAV13-5"
+                     /codon_start=1
+                     /product="TRAV13-5"
+                     /protein_id="AAL08201.1"
+                     /db_xref="GI:15795315"
+     V_segment       join(1207164..1207215,1207397..>1207672)
+                     /gene="TRAV13-5"
+     misc_recomb     1207673..1207679
+                     /gene="TRAV13-5"
+                     /note="RSS_heptamer"
+     misc_recomb     1207680..1207702
+                     /gene="TRAV13-5"
+                     /note="RSS_spacer"
+     misc_recomb     join(1207703..1207711,1216195..1216291,1216378..1216448)
+                     /note="RSS_nonamer"
+     gene            1222756..1223512
+                     /gene="TRAV17"
+                     /note="Other name TCRAV9S2"
+     misc_feature    1222756..1222775
+                     /gene="TRAV17"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1222997..1223042,1223179..>1223473)
+                     /gene="TRAV17"
+                     /codon_start=1
+                     /product="TRAV17"
+                     /protein_id="AAL08202.1"
+                     /db_xref="GI:15795316"
+     V_segment       join(1222997..1223042,1223179..>1223473)
+                     /gene="TRAV17"
+     misc_recomb     1223474..1223480
+                     /gene="TRAV17"
+                     /note="RSS_heptamer"
+     misc_recomb     1223481..1223503
+                     /gene="TRAV17"
+                     /note="RSS_spacer"
+     misc_recomb     1223504..1223512
+                     /gene="TRAV17"
+                     /note="RSS_nonamer"
+     gene            1256014..1257004
+                     /gene="TRAV18"
+     misc_feature    1256014..1256033
+                     /gene="TRAV18"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1256240..1256285,1256684..>1256965)
+                     /gene="TRAV18"
+                     /codon_start=1
+                     /product="TRAV18"
+                     /protein_id="AAL08203.1"
+                     /db_xref="GI:15795317"
+     V_segment       join(1256240..1256285,1256684..>1256965)
+                     /gene="TRAV18"
+     misc_recomb     1256966..1256972
+                     /gene="TRAV18"
+                     /note="RSS_heptamer"
+     misc_recomb     1256973..1256995
+                     /gene="TRAV18"
+                     /note="RSS_spacer"
+     misc_recomb     1256996..1257004
+                     /gene="TRAV18"
+                     /note="RSS_nonamer"
+     gene            1278835..1279541
+                     /gene="TRAV19"
+                     /note="Other name TCRAV20S1"
+     misc_feature    1278835..1278854
+                     /gene="TRAV19"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1278997..1279048,1279197..>1279502)
+                     /gene="TRAV19"
+                     /codon_start=1
+                     /product="TRAV19"
+                     /protein_id="AAL08204.1"
+                     /db_xref="GI:15795318"
+     V_segment       join(1278997..1279048,1279197..>1279502)
+                     /gene="TRAV19"
+     misc_recomb     1279503..1279509
+                     /gene="TRAV19"
+                     /note="RSS_heptamer"
+     misc_recomb     1279510..1279532
+                     /gene="TRAV19"
+                     /note="RSS_spacer"
+     misc_recomb     1279533..1279541
+                     /gene="TRAV19"
+                     /note="RSS_nonamer"
+     gene            1296920..1297699
+                     /gene="TRAV20P"
+                     /note="Other name TCRAV16S2P; This gene has internal stop
+                     codons in exon 2."
+                     /pseudo
+     misc_feature    1296920..1296939
+                     /gene="TRAV20P"
+                     /note="conserved 20-mer; possible promoter"
+                     /pseudo
+     CDS             join(1297109..1297160,1297366..>1297660)
+                     /gene="TRAV20P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(1297109..1297160,1297366..>1297660)
+                     /gene="TRAV20P"
+                     /pseudo
+     misc_recomb     1297661..1297667
+                     /gene="TRAV20P"
+                     /note="RSS_heptamer"
+     misc_recomb     1297668..1297690
+                     /gene="TRAV20P"
+                     /note="RSS_spacer"
+     misc_recomb     1297691..1297699
+                     /gene="TRAV20P"
+                     /note="RSS_nonamer"
+     gene            1309636..1312119
+                     /gene="TRADV21"
+                     /note="Other name TCRADV6S2"
+     misc_feature    1309636..1309655
+                     /gene="TRADV21"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1311342..1311381,1311793..>1312080)
+                     /gene="TRADV21"
+                     /codon_start=1
+                     /product="TRADV21"
+                     /protein_id="AAL08205.1"
+                     /db_xref="GI:15795319"
+     V_segment       join(1311342..1311381,1311793..>1312080)
+                     /gene="TRADV21"
+     misc_recomb     1312081..1312087
+                     /gene="TRADV21"
+                     /note="RSS_heptamer"
+     misc_recomb     1312088..1312110
+                     /gene="TRADV21"
+                     /note="RSS_spacer"
+     misc_recomb     1312111..1312119
+                     /gene="TRADV21"
+                     /note="RSS_nonamer"
+     gene            1316767..1317587
+                     /gene="TRDV1"
+                     /note="Other name TCRDV102S1"
+     misc_feature    1316767..1316786
+                     /gene="TRDV1"
+                     /note="conserved 20-mer; possible promoter"
+     CDS             join(1316937..1316988,1317264..>1317548)
+                     /gene="TRDV1"
+                     /codon_start=1
+                     /product="TRDV1"
+                     /protein_id="AAL08206.1"
+                     /db_xref="GI:15795320"
+     V_segment       join(1316937..1316988,1317264..>1317548)
+                     /gene="TRDV1"
+     misc_recomb     1317549..1317555
+                     /gene="TRDV1"
+                     /note="RSS_heptamer"
+     misc_recomb     1317556..1317578
+                     /gene="TRDV1"
+                     /note="RSS_spacer"
+     misc_recomb     1317579..1317587
+                     /gene="TRDV1"
+                     /note="RSS_nonamer"
+     gene            1369581..1369829
+                     /gene="TRAV22P"
+                     /note="This gene is missing exon 1."
+                     /pseudo
+     CDS             1369581..1369829
+                     /gene="TRAV22P"
+                     /pseudo
+                     /codon_start=1
+     gene            1373771..1374397
+                     /gene="TRDV2-1"
+     CDS             join(1373771..1373819,1374060..>1374358)
+                     /gene="TRDV2-1"
+                     /codon_start=1
+                     /product="TRDV2-1"
+                     /protein_id="AAL08207.1"
+                     /db_xref="GI:15795321"
+     V_segment       join(1373771..1373819,1374060..>1374358)
+                     /gene="TRDV2-1"
+     misc_recomb     1374359..1374365
+                     /gene="TRDV2-1"
+                     /note="RSS_heptamer"
+     misc_recomb     1374366..1374388
+                     /gene="TRDV2-1"
+                     /note="RSS_spacer"
+     misc_recomb     1374389..1374397
+                     /gene="TRDV2-1"
+                     /note="RSS_nonamer"
+     gene            1384602..1385241
+                     /gene="TRDV2-2"
+                     /note="Other name TCRDV104S1"
+     CDS             join(1384602..1384650,1384904..>1385202)
+                     /gene="TRDV2-2"
+                     /codon_start=1
+                     /product="TRDV2-2"
+                     /protein_id="AAL08208.1"
+                     /db_xref="GI:15795322"
+     V_segment       join(1384602..1384650,1384904..>1385202)
+                     /gene="TRDV2-2"
+     misc_recomb     1385203..1385209
+                     /gene="TRDV2-2"
+                     /note="RSS_heptamer"
+     misc_recomb     1385210..1385232
+                     /gene="TRDV2-2"
+                     /note="RSS_spacer"
+     misc_recomb     1385233..1385241
+                     /gene="TRDV2-2"
+                     /note="RSS_nonamer"
+     gene            1400172..1400735
+                     /gene="TRAV23P"
+                     /note="Exon 1 splice donor violates consensus."
+                     /pseudo
+     CDS             join(1400172..1400215,1400394..1400696)
+                     /gene="TRAV23P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       join(1400172..1400215,1400394..1400696)
+                     /gene="TRAV23P"
+                     /pseudo
+     misc_recomb     1400697..1400703
+                     /gene="TRAV23P"
+                     /note="RSS_heptamer"
+     misc_recomb     1400704..1400726
+                     /gene="TRAV23P"
+                     /note="RSS_spacer"
+     misc_recomb     1400727..1400735
+                     /gene="TRAV23P"
+                     /note="RSS_nonamer"
+     gene            1431085..1431423
+                     /gene="TRDV3P"
+                     /note="This gene is missing exon 1."
+                     /pseudo
+     CDS             1431085..>1431384
+                     /gene="TRDV3P"
+                     /pseudo
+                     /codon_start=1
+     V_segment       1431085..>1431384
+                     /gene="TRDV3P"
+                     /pseudo
+     misc_recomb     1431385..1431391
+                     /gene="TRDV3P"
+                     /note="RSS_heptamer"
+     misc_recomb     1431392..1431414
+                     /gene="TRDV3P"
+                     /note="RSS_spacerr"
+     misc_recomb     1431415..1431423
+                     /gene="TRDV3P"
+                     /note="RSS_nonamer"
+     gene            1503599..1503637
+                     /gene="deltaREC1"
+     misc_recomb     1503599..1503605
+                     /gene="deltaREC1"
+                     /note="RSS_heptamer"
+     misc_recomb     1503606..1503628
+                     /gene="deltaREC1"
+                     /note="RSS_spacer"
+     misc_recomb     1503629..1503637
+                     /gene="deltaREC1"
+                     /note="RSS_nonamer"
+     gene            1519291..1519841
+                     /gene="TRDV4"
+                     /note="Other name TCRDV101S1"
+     CDS             join(1519291..1519336,1519504..>1519802)
+                     /gene="TRDV4"
+                     /codon_start=1
+                     /product="TRDV4"
+                     /protein_id="AAL08209.1"
+                     /db_xref="GI:15795323"
+     V_segment       join(1519291..1519336,1519504..>1519802)
+                     /gene="TRDV4"
+     misc_recomb     1519803..1519809
+                     /gene="TRDV4"
+                     /note="RSS_heptamer"
+     misc_recomb     1519810..1519832
+                     /gene="TRDV4"
+                     /note="RSS_spacer"
+     misc_recomb     1519833..1519841
+                     /gene="TRDV4"
+                     /note="RSS_nonamer"
+     gene            1557678..1557755
+                     /gene="TRDD1"
+     misc_recomb     1557678..1557686
+                     /gene="TRDD1"
+                     /note="RSS_nonamer"
+     misc_recomb     1557687..1557698
+                     /gene="TRDD1"
+                     /note="RSS_spacer"
+     misc_recomb     1557699..1557705
+                     /gene="TRDD1"
+                     /note="RSS_heptamer"
+     D_segment       1557706..1557716
+                     /gene="TRDD1"
+     misc_recomb     1557717..1557723
+                     /gene="TRDD1"
+                     /note="RSS_heptamer"
+     misc_recomb     1557724..1557746
+                     /gene="TRDD1"
+                     /note="RSS_spacer"
+     misc_recomb     1557747..1557755
+                     /gene="TRDD1"
+                     /note="RSS_nonamer"
+     gene            1566430..1566512
+                     /gene="TRDD2"
+     misc_recomb     1566430..1566438
+                     /gene="TRDD2"
+                     /note="RSS_nonamer"
+     misc_recomb     1566439..1566450
+                     /gene="TRDD2"
+                     /note="RSS_spacer"
+     misc_recomb     1566451..1566457
+                     /gene="TRDD2"
+                     /note="RSS_heptamer"
+     D_segment       1566458..1566473
+                     /gene="TRDD2"
+     misc_recomb     1566474..1566480
+                     /gene="TRDD2"
+                     /note="RSS_heptamer"
+     misc_recomb     1566481..1566503
+                     /gene="TRDD2"
+                     /note="RSS_spacer"
+     misc_recomb     1566504..1566512
+                     /gene="TRDD2"
+                     /note="RSS_nonamer"
+     gene            1567342..1567420
+                     /gene="TRDJ1"
+     misc_recomb     1567342..1567350
+                     /gene="TRDJ1"
+                     /note="RSS_nonamer"
+     misc_recomb     1567351..1567362
+                     /gene="TRDJ1"
+                     /note="RSS_spacer"
+     misc_recomb     1567363..1567369
+                     /gene="TRDJ1"
+                     /note="RSS_heptamer"
+     J_segment       1567370..1567420
+                     /gene="TRDJ1"
+     gene            1574172..1574258
+                     /gene="TRDJ2"
+     misc_recomb     1574172..1574180
+                     /gene="TRDJ2"
+                     /note="RSS_nonamer"
+     misc_recomb     1574181..1574192
+                     /gene="TRDJ2"
+                     /note="RSS_spacer"
+     misc_recomb     1574193..1574199
+                     /gene="TRDJ2"
+                     /note="RSS_heptamer"
+     J_segment       1574200..1574258
+                     /gene="TRDJ2"
+     gene            1580287..1583535
+                     /gene="TRDC"
+                     /note="TCR delta chain constant region gene"
+     exon            1580287..1580565
+                     /gene="TRDC"
+                     /number=1
+     exon            1581227..1581292
+                     /gene="TRDC"
+                     /number=2
+     exon            1581653..1581769
+                     /gene="TRDC"
+                     /number=3
+     exon            1582910..1583535
+                     /gene="TRDC"
+                     /number=4
+     gene            complement(1586002..1586580)
+                     /gene="TRDV5"
+                     /note="Other name TCRDV105"
+     misc_recomb     complement(1586002..1586010)
+                     /gene="TRDV5"
+                     /note="RSS_nonamer"
+     misc_recomb     complement(1586011..1586033)
+                     /gene="TRDV5"
+                     /note="RSS_spacer"
+     misc_recomb     complement(1586034..1586040)
+                     /gene="TRDV5"
+                     /note="RSS_heptamer"
+     CDS             complement(join(<1586041..1586387,1586544..1586580))
+                     /gene="TRDV5"
+                     /codon_start=1
+                     /product="TRDV5"
+                     /protein_id="AAL08210.1"
+                     /db_xref="GI:15795324"
+     V_segment       complement(join(1586041..1586387,1586544..1586580))
+                     /gene="TRDV5"
+     gene            1657818..1661500
+                     /gene="TRAC"
+                     /note="TCR alpha chain constant region gene"
+     exon            1657818..1658078
+                     /gene="TRAC"
+                     /number=1
+     exon            1659401..1659445
+                     /gene="TRAC"
+                     /number=2
+     exon            1660285..1660392
+                     /gene="TRAC"
+                     /number=3
+     exon            1660980..1661500
+                     /gene="TRAC"
+                     /number=4
+ORIGIN      
+//
+
